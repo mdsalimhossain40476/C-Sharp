@@ -24,7 +24,7 @@ namespace ArithmeticOperators
 
             /*  
               Operator            Name                        Description                     Example
-                 -	         Subtraction	        একটি মান থেকে অন্য মান বাদ দেয়।	       x - y
+                 -	         Subtraction	        একটি মান থেকে অন্য মান বাদ দেয়।	           x - y
              */
 
             int a = 5;
@@ -33,7 +33,7 @@ namespace ArithmeticOperators
 
             /*
                Operator            Name                    Description                           Example
-                 *	           Multiplication	       দুটি মানের গুণফল বের করে।	         x * y	
+                 *	           Multiplication	       দুটি মানের গুণফল বের করে।	              x * y	
            */
             
             int c = 5;
@@ -42,7 +42,7 @@ namespace ArithmeticOperators
 
             /*
                    Operator            Name                   Description                                 Example
-                     /	           Division	         একটি মানকে অন্য একটি দ্বারা ভাগ করুন।   	       x / y	
+                     /	           Division	         একটি মানকে অন্য একটি দ্বারা ভাগ করুন।   	           x / y	
            */
 
             
@@ -52,7 +52,7 @@ namespace ArithmeticOperators
 
             /*
                    Operator            Name                  Description                        Example
-                     %	         Modulus	             বিভাগের বাকি ফেরত দেয়।	             x % y	
+                     %	         Modulus	             বিভাগের বাকি ফেরত দেয়।	                  x % y	
             */
 
             
@@ -61,8 +61,8 @@ namespace ArithmeticOperators
             Console.WriteLine(g % h);   //  Output :  1
 
             /*
-                   Operator           Name                     Description                              Example
-                     ++	          Increment	          একটি ভেরিয়েবলের মান 1 দ্বারা বৃদ্ধি করে।	          x++	
+                   Operator           Name                     Description                               Example
+                     ++	          Increment	          একটি ভেরিয়েবলের মান 1 দ্বারা বৃদ্ধি করে।	              x++	
             */
 
             
@@ -72,7 +72,7 @@ namespace ArithmeticOperators
 
             /*
                    Operator           Name                     Description                           Example
-                     --	          Decrement	           একটি ভেরিয়েবলের মান ১ দ্বারা হ্রাস করে।	        x--	               
+                     --	          Decrement	           একটি ভেরিয়েবলের মান ১ দ্বারা হ্রাস করে।	           x--	               
             */
 
             
