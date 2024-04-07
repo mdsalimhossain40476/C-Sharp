@@ -14,7 +14,7 @@ namespace ArithmeticOperators
             //  Arithmetic Operators সাধারণ গাণিতিক কার্য সম্পাদনের জন্য ব্যবহৃত হয়:
             
             /*
-                  Operator	       Name	                        Description	                          Example	
+                  Operator	       Name	                        Description	                       Example	
                   +	            Addition	               দুটি মানকে একসাথে যোগ করে।	          x + y	
             */
             
@@ -23,7 +23,7 @@ namespace ArithmeticOperators
                Console.WriteLine(x + y);  //  Output : 8
 
             /*  
-              Operator            Name                        Description                              Example
+              Operator            Name                        Description                         Example
                  -	         Subtraction	        একটি মান থেকে অন্য মান বাদ দেয়।	           x - y
              */
 
