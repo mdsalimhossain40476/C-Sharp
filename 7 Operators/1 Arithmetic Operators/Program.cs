@@ -15,7 +15,7 @@ namespace ArithmeticOperators
             
             /*
                   Operator	       Name	                        Description	                       Example	
-                  +	            Addition	               দুটি মানকে একসাথে যোগ করে।	          x + y	
+                  +	            Addition	               দুটি মানকে একসাথে যোগ করে।	             x + y	
             */
             
                int x = 5;
