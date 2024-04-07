@@ -11,7 +11,7 @@ namespace ArithmeticOperators
         static void Main(string[] args)
         {
             //  Arithmetic Operators
-            // গাণিতিক অপারেটর সাধারণ গাণিতিক কার্য সম্পাদনের জন্য ব্যবহৃত হয়:
+            //  Arithmetic Operators সাধারণ গাণিতিক কার্য সম্পাদনের জন্য ব্যবহৃত হয়:
             
             /*
                   Operator	     Name	               Description	                    Example	
@@ -82,9 +82,9 @@ namespace ArithmeticOperators
             */
 
             
-            int j = 5;
-                j--;
-            Console.WriteLine(j);   // Output :  4
+               int j = 5;
+                   j--;
+               Console.WriteLine(j);   // Output :  4
 
             Console.ReadLine();
 
