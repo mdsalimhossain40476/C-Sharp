@@ -23,7 +23,7 @@ namespace ArithmeticOperators
                Console.WriteLine(x + y);  //  Output : 8
 
             /*  
-              Operator        Name                        Description                     Example
+              Operator            Name                        Description                     Example
                  -	         Subtraction	        একটি মান থেকে অন্য মান বাদ দেয়।	       x - y
              */
 
@@ -32,7 +32,7 @@ namespace ArithmeticOperators
             Console.WriteLine(a - b);  // Output :  2
 
             /*
-               Operator        Name                    Description                           Example
+               Operator            Name                    Description                           Example
                  *	           Multiplication	       দুটি মানের গুণফল বের করে।	         x * y	
            */
             
@@ -41,7 +41,7 @@ namespace ArithmeticOperators
             Console.WriteLine(c * d);   // Output :  15 
 
             /*
-                   Operator        Name                   Description                                 Example
+                   Operator            Name                   Description                                 Example
                      /	           Division	         একটি মানকে অন্য একটি দ্বারা ভাগ করুন।   	       x / y	
            */
 
@@ -51,7 +51,7 @@ namespace ArithmeticOperators
             Console.WriteLine(e / f);  //  Output :  4
 
             /*
-                   Operator        Name                  Description                        Example
+                   Operator            Name                  Description                        Example
                      %	         Modulus	             বিভাগের বাকি ফেরত দেয়।	             x % y	
             */
 
@@ -61,7 +61,7 @@ namespace ArithmeticOperators
             Console.WriteLine(g % h);   //  Output :  1
 
             /*
-                   Operator        Name                     Description                              Example
+                   Operator           Name                     Description                              Example
                      ++	          Increment	          একটি ভেরিয়েবলের মান 1 দ্বারা বৃদ্ধি করে।	          x++	
             */
 
@@ -71,7 +71,7 @@ namespace ArithmeticOperators
             Console.WriteLine(i);  // Output :  6
 
             /*
-                   Operator        Name                     Description                           Example
+                   Operator           Name                     Description                           Example
                      --	          Decrement	           একটি ভেরিয়েবলের মান ১ দ্বারা হ্রাস করে।	        x--	               
             */
 
