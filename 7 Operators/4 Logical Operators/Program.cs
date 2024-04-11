@@ -25,7 +25,7 @@ namespace LogicalOperators
             //  !  Logical not      :       ফলাফলটিকে উল্টানো, যদি ফলাফলটি True হয় তবে False ফিরিয়ে দেয়।
             int y = 5;
             Console.WriteLine(!(y > 3 && y < 10)); // ফলস রিটার্ন করে কারণ ! (Not) ব্যবহার করা হয় ফলাফলটি বিপরীত করতে।
-                                                   // Outputs :    True
+                                                   // Outputs :    False
 
 
             Console.ReadLine();
