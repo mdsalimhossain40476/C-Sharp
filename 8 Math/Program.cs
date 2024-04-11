@@ -14,12 +14,12 @@ namespace MyApplication
             //      x এবং y এর সবচেয়ে বেশি মানটি খুঁজে বের করতে Math.Max(x, y) পদ্ধতিটি ব্যবহার করা যেতে পারে:
             int x = 5;
             int y = 10;
-            Console.WriteLine(Math.Max (5, 10));    // Outputs :      10 
+            Console.WriteLine(Math.Max (x, y));    // Outputs :      10 
 
             //      a এবং b এর সবচেয়ে কম মান খুঁজে বের করতে Math.Min(x,y) পদ্ধতি ব্যবহার করা যেতে পারে
             int a = 5;
             int b = 10;
-            Console.WriteLine(Math.Min(5, 10));     // Outputs :      5
+            Console.WriteLine(Math.Min(x, y));     // Outputs :      5
 
             //  Math.Sqrt(c) পদ্ধতিটি c এর বর্গমূল ফিরিয়ে দেয়।
             int c = 64;
