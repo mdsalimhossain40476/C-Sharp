@@ -29,6 +29,10 @@ namespace MyApplication
             double d = -5.78;
             Console.WriteLine(Math.Abs(d));       // Outputs :      5.78
 
+            //    Math.Round()
+            //    Math.Round() একটি সংখ্যাকে নিকটতম পূর্ণ সংখ্যায় রূপান্তরিত করে। 
+            //    যদি সংখ্যাটি ১.৪৯ হয়, তবে ১ প্রদর্শন করবে। যদি সংখ্যাটি ১.৫ হয়, তবে ২ প্রদর্শন করবে।
+            Console.WriteLine(Math.Round(1.49));  //  Outputs :       1
             Console.ReadLine();
         }
     }
