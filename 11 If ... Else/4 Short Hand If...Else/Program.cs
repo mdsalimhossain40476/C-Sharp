@@ -24,7 +24,8 @@ namespace ConsoleApp3
             else
             {
                 Console.WriteLine("Good evening.");  //  Output : Good evening.
-            }
+            }  //  Outputs:    Good evening.
+            
                     // লেখার পরিবর্তে।
                     // আপনি সহজেই লিখতে পারেন।
                     // variable = (condition) ? expressionTrue :  expressionFalse;
