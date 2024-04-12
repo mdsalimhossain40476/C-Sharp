@@ -24,7 +24,7 @@ namespace ConsoleApp2
                     else
                     {
                       // যদি condition1 মিথ্যা এবং condition2 মিথ্যা হয় তাহলে ব্লক কোডটি কার্যকর হবে
-                    }
+                    }  //  
 
             */
 
@@ -41,7 +41,7 @@ namespace ConsoleApp2
             else
             {
                 Console.WriteLine("Good evening.");
-            }
+            }   Outputs:    Good evening.
             /*
                 উদাহরণ ব্যাখ্যা করা হলো
                 উপরের উদাহরণে, সময় (22) 10 এর চেয়ে বেশি, তাই প্রথম শর্তটি মিথ্যা। পরের শর্ত, 
