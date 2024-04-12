@@ -27,7 +27,7 @@ namespace MyApplication
             else
             {
                 Console.WriteLine("Good evening.");
-            }
+            }  //    Outputs:    Good evening.
             /*
                 উদাহরণ ব্যাখ্যা করা হল
                 উপরের উদাহরণে, time (20) 18 থেকে বেশী, সুতরাং শর্তটি মিথ্যা। এই কারণে, আমরা অন্য শর্তে যাই 
