@@ -42,7 +42,7 @@ namespace ConsoleApp
             if (20 > 18)
             {
                 Console.WriteLine("20 is greater than 18");
-            }
+            }  //  Outputs:   20 is greater than 18 
 
                     //  আমরা ভ্যারিয়েবলও পরীক্ষা করতে পারি:
                     int x = 20;
@@ -50,7 +50,7 @@ namespace ConsoleApp
                     if (x > y)
                     {
                         Console.WriteLine("x is greater than y");
-                    }
+                    }  //  Outputs:    x is greater than y
 
                     /*
                      উদাহরণ ব্যাখ্যা করা হলো
