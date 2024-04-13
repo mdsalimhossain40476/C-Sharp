@@ -11,7 +11,7 @@ namespace WritePrintRead
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.ReadLine();
+            Console.ReadLine();  // প্রোগ্রামকে অপেক্ষা করার জন্য Console.ReadLine(); লিখতে হবে।
             /*
                 উদাহরণ ব্যাখ্যা করা হলোঃ
                
