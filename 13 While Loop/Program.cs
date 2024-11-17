@@ -57,7 +57,18 @@ namespace While_Loop
             }
             while (a < 10);  // Output :	0	1	2	3	4   5   6   7   8   9
 
-
+    ====================================================================
+              // While the Condition is true then Execute the Loop.
+              //যখন শর্ত সত্য, তখন লুপটি কার্যকর করো।
+               int balance =Convert.ToInt32( Console.ReadLine());
+               int iceCream = 20;
+               int count=0;
+               while (iceCream <= balance)
+               {
+                    Console.WriteLine("You buy "+ (++count) +" Ice Cream.");
+                    balance -= iceCream;
+               }
+            
 
             Console.ReadLine();
         }
